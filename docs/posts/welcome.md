@@ -20,7 +20,7 @@ Thank you for joining us on this exciting journey, and we look forward to sharin
 
 In the meantime, check out these related links:
 
-* Homepage - https://alphaus.cloud/en/
-* Documentation - https://labs.alphaus.cloud/docs/
-* Twitter - https://twitter.com/alphauslabs
-* LinkedIn - https://www.linkedin.com/company/alphaus/
+Homepage - [https://alphaus.cloud/en/](https://alphaus.cloud/en/)
+Documentation - [https://labs.alphaus.cloud/docs/](https://labs.alphaus.cloud/docs/)
+Twitter - [https://twitter.com/alphauslabs](https://twitter.com/alphauslabs)
+LinkedIn - [https://www.linkedin.com/company/alphaus/](https://www.linkedin.com/company/alphaus/)
