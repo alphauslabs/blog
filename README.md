@@ -1,2 +1,1 @@
-# blog
 Alphaus Engineering Blog
