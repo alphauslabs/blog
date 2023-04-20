@@ -15,7 +15,8 @@ jobs:
     - uses: actions/setup-python@v2
       with:
         python-version: 3.x
-    - env:
+    - name: Deploy to pages
+      env:
         DEPLOYER_TOKEN: ${{secrets.GH_PAT}}
       run: |
         pip install git+https://${DEPLOYER_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
