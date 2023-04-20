@@ -1,0 +1,13 @@
+site_name: Alphaus Engineering Blog
+theme:
+  name: material
+  features:
+  - navigation.sections
+plugins:
+- meta
+- blog:
+    blog_dir: .
+- search
+- tags
+nav:
+- index.md
