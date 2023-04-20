@@ -1,0 +1,22 @@
+name: default
+
+on:
+  push:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab.
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+    - env:
+        DEPLOYER_TOKEN: ${{secrets.GH_PAT}}
+      run: |
+        pip install git+https://${DEPLOYER_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
+        mkdocs gh-deploy --force
