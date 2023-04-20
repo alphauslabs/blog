@@ -17,3 +17,10 @@ Through this blog, we aim to provide valuable insights, tutorials, and updates a
 We welcome your feedback, questions, and ideas for future blog topics. We believe that by sharing knowledge, we can inspire others and drive progress in the tech industry.
 
 Thank you for joining us on this exciting journey, and we look forward to sharing our knowledge and experiences with you!
+
+In the meantime, check out these related links:
+
+* Homepage - https://alphaus.cloud/en/
+* Documentation - https://labs.alphaus.cloud/docs/
+* Twitter - https://twitter.com/alphauslabs
+* LinkedIn - https://www.linkedin.com/company/alphaus/
