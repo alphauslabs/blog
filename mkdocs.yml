@@ -35,3 +35,7 @@ markdown_extensions:
 - pymdownx.tilde
 - md_in_html
 - footnotes
+extra:
+  analytics:
+    provider: google
+    property: G-333404550
