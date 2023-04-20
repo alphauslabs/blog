@@ -1,4 +1,5 @@
 site_name: Alphaus Engineering Blog
+copyright: Copyright &copy; 2023 Alphaus Cloud. All rights reserved.
 theme:
   name: material
   logo: assets/alphaus-logo-line-transparent.png
@@ -13,9 +14,6 @@ plugins:
 - tags
 nav:
 - index.md
-copyright: >
-  Copyright &copy; 2023 Alphaus, Inc.  
-  <a href="#__consent">Change cookie settings</a>
 markdown_extensions:
 - admonition
 - pymdownx.highlight:
