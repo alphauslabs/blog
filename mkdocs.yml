@@ -1,6 +1,8 @@
 site_name: Alphaus Engineering Blog
 theme:
   name: material
+  logo: assets/alphaus-logo-line-transparent.png
+  favicon: assets/alphaus.png
   features:
   - navigation.sections
 plugins:
