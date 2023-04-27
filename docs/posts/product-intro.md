@@ -32,7 +32,7 @@ In addition to its invoicing capabilities, Ripple also offers valuable features 
 
 WavePro is a powerful visualization and reporting tool that complements Ripple's invoicing capabilities. Designed for MSP clients, WavePro features are tied to billing groups. A client can have one or multiple billing groups, depending on their organizational structure. Think of WavePro as a multi-cloud version of AWS Cost Explorer, providing clients with valuable insights into their cloud usage and costs.
 
-It's important to note that WavePro doesn't have direct access to the client's cloud environment. Instead, it relies on Ripple as the primary source of information. However, we are currently developing an option to allow WavePro users to set up API access to their cloud environments. With this feature, WavePro can provide additional value, such as RI/SP coverage and recommendations, forecasting, and more.
+It's important to note that WavePro doesn't have direct access to the client's cloud environment. Instead, it relies on Ripple as its primary source of information. However, we are currently developing an option to allow WavePro users to set up API access to their cloud environments. With this feature, WavePro can provide additional value, such as RI/SP coverage and recommendations, forecasting, and more.
 
 Overall, WavePro is a valuable tool that helps MSP clients gain better visibility into their cloud usage and costs, enabling them to optimize their cloud resources, reduce costs, and maximize their return on investment.
 
