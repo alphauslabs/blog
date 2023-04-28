@@ -36,7 +36,6 @@ markdown_extensions:
 - md_in_html
 - footnotes
 extra:
-  generator: false
   social:
   - icon: fontawesome/brands/github
     link: https://github.com/alphauslabs
