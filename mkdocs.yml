@@ -36,6 +36,14 @@ markdown_extensions:
 - md_in_html
 - footnotes
 extra:
+  generator: false
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/alphauslabs
+  - icon: fontawesome/brands/twitter
+    link: https://twitter.com/alphauslabs
+  - icon: fontawesome/brands/linkedin
+    link: https://www.linkedin.com/company/alphaus/
   analytics:
     provider: google
     property: G-EZWHM5C9YT
