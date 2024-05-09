@@ -46,3 +46,5 @@ Founded in 2015, Alphaus Inc. is backed by reputed investors like DNX Ventures, 
 Hajime Hirose, CEO  
 Tel: +81.70.3173.7354  
 E-mail: hajime.hirose@alphaus.cloud
+
+---

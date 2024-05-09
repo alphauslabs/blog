@@ -41,3 +41,5 @@ Overall, WavePro is a valuable tool that helps MSP clients gain better visibilit
 Ripple/WavePro is a proven and trusted cloud financial management solution that has become a leading choice for MSPs in Japan. We are excited to announce our expansion into the Asia Pacific region, with notable MSPs in Singapore and Malaysia already on board.
 
 If you're curious about how Ripple/WavePro can support your cloud financial management needs, we welcome you to contact us at [https://alphaus.cloud/contact-us-en/](https://alphaus.cloud/contact-us-en/). Our team is happy to answer any questions you may have and provide more information about our solution.
+
+---

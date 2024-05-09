@@ -82,3 +82,5 @@ We also have several guides that use `bluectl` as the main tool. You can check t
 [Registering AWS payer accounts using bluectl](https://labs.alphaus.cloud/docs/guides/aws-register-payer/)  
 [Querying AWS costs using bluectl](https://labs.alphaus.cloud/docs/guides/aws-query-costs//)  
 [Adding cost modifiers to the AWS calculator using bluectl](https://labs.alphaus.cloud/docs/guides/aws-cost-mods/)
+
+---

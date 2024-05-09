@@ -43,3 +43,5 @@ $ curl -H "Authorization: Bearer $(bluectl token)" \
 ## Closing
 
 At the moment, Blue API is still a work in progress. Most of the APIs currently supported in Ripple and WavePro are still not available. In the meantime, you can still use our JSON/REST APIs [here](https://docs.alphaus.cloud/v/api-reference/). We plan to upgrade as many of our JSON/REST APIs as possible over to gRPC as it is significantly more efficient in terms of throughput and CPU usage compared to JSON/REST API. However, we don't intend to deprecate our JSON/REST APIs once the transition is completed. You should be able to use both.
+
+---
