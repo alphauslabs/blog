@@ -10,6 +10,10 @@ categories:
 
 In this blog post, we present the [DIVS](https://github.com/divs-org/divs-model/) model, a lightweight agile process designed for startups with small teams. This is the methodology we use within Alphaus.
 
+<figure markdown="span">
+  ![DIVS](https://storage.googleapis.com/labs-alphaus-cloud-blog/the-divs-model.png)
+</figure>
+
 <!-- more -->
 
 ## Background
