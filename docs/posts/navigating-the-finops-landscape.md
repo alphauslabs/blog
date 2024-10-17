@@ -22,7 +22,9 @@ Over the years, the FinOps community has grown exponentially, forming a global f
 
 During the conference, we heard an interesting story from HSBC’s exec, Natalie Daley. She shared the bank’s rollercoaster ride over the last four years to upgrade their FinOps game. After their cloud use spiked by 400% in the first year, they decided it was time to get serious about managing their cloud costs and multi-cloud strategy. She shared how they nurtured their FinOps team, made everything transparent, and got everyone to join in. Even as they moved forward, they tied FinOps optimization with cutting down carbon emissions, matching their sustainability goals.
 
-![advanced-payment](https://drive.google.com/uc?id=14SMK8eCnU9EY8ZJzNNY3jA7ha0-Emmrm)
+<figure markdown="span">
+  ![Advanced payment](https://storage.googleapis.com/labs-alphaus-cloud-blog/finops_x_problems-advanced-payment.png)
+</figure>
 
 Breakout sessions allowed us to delve deeper into specific FinOps topics, one of which, titled “Advanced Approach to Prepay Amortization and Rate Blending,” proved especially valuable for our work at Alphaus. We’re currently integrating this feature into our FinOps Enabler tool, OCTO. This enhancement aims to augment our existing ‘True Unblended’ feature by allowing enterprises to equitably distribute savings benefits across a diverse range of usage types.
 
@@ -46,7 +48,9 @@ The conference also proved to be an exceptional networking opportunity, enabling
 
 8) Future Trends: The keynote also talked about what’s next in FinOps, like machine learning, predictive analytics, and the impact of the newly announced FOCUS project on cloud billing data standardization. We are grateful for the opportunity to participate as one of the contributors in the development of FOCUS.
 
-![focus](https://drive.google.com/uc?id=1GGwjceNg3POLzvhu4JyX5PGdGaXsAJac)
+<figure markdown="span">
+  ![Focus](https://storage.googleapis.com/labs-alphaus-cloud-blog/finops_x_focus.png)
+</figure>
 
 Overall, the FinOps X conference provided valuable insights and invaluable connections, affirming the importance of FinOps in today’s cloud-dominated landscape. We are grateful for the opportunity to have participated and are excited to apply these learnings to further enhance our FinOps solutions at Alphaus.
 
