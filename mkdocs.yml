@@ -1,4 +1,5 @@
 site_name: Alphaus Engineering Blog
+site_url: https://labs.alphaus.cloud/blog/
 copyright: Copyright &copy; 2024 Alphaus Cloud. All rights reserved.
 theme:
   name: material
